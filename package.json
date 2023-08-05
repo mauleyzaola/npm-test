@@ -1,5 +1,5 @@
 {
-  "name": "npm-test",
+  "name": "@mauleyzaola/npm-calculator",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -7,15 +7,19 @@
     "test": "jest"
   },
   "keywords": [],
-  "author": "",
+  "author": "mauricio.leyzaola@gmail.com",
   "license": "ISC",
   "homepage": "https://github.com/mauleyzaola/npm-test",
   "repository": {
     "type": "git",
-    "url": "https://github.com/mauleyzaola/npm-test"
+    "url": "git+https://github.com/mauleyzaola/npm-test.git"
   },
   "dependencies": {
     "jest": "^29.6.2",
     "prettier": "^3.0.1"
-  }
+  },
+  "bugs": {
+    "url": "https://github.com/mauleyzaola/npm-test/issues"
+  },
+  "devDependencies": {}
 }
